@@ -59,6 +59,10 @@ features                                  :
     description                           : Подробна информация за зони в поддържаните градове. Цени и максимален брой позволени SMS. Работно време на зони. 
     fontawesome_icon_name                 : info
 
+  - title                                 : Dark Mode
+    description                           : Автоматичен Dark Mode ( тъмна тема ).
+    fontawesome_icon_name                 : moon
+
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
