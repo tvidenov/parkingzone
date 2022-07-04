@@ -21,3 +21,19 @@ Some of the features are:
 - save as many cars as you need and keep them in one place
 
 <br>
+
+## Version 1.0.1
+
+#### Bug Fixes
+- Fixed small bugs in the app
+
+<br>
+
+## Version 1.0.2
+
+#### Bug Fixes
+- Fixed the app review button in Settings
+- Fixed getting the current device version when requesting feedback
+- Small localization fixes
+
+<br>
