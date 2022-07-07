@@ -37,3 +37,10 @@ Some of the features are:
 - Small localization fixes
 
 <br>
+
+## Version 1.0.3
+
+#### New
+- Allowed to enter and save shorter registration plates
+
+<br>
