@@ -27,9 +27,9 @@ email_address                             : tihomirvidenov@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : 
+github_username                           : tvidenov
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             :
 
 
 
@@ -56,13 +56,17 @@ features                                  :
     description                           : Поддържка на Widget за още по-бързо информиране относно оставащо време в зона.
     fontawesome_icon_name                 : magic
   
-  - title                                 : Инфорамация за зони
+  - title                                 : Информация за зони
     description                           : Подробна информация за зони в поддържаните градове. Цени и максимален брой позволени SMS. Работно време на зони. 
     fontawesome_icon_name                 : info
 
   - title                                 : Dark Mode
-    description                           : Автоматичен Dark Mode ( тъмна тема ).
+    description                           : Автоматичен или ръчен избор на режим на екрана.
     fontawesome_icon_name                 : moon
+
+  - title                                 : Live Activities
+    description                           : Показване в реално време на активните зони на заключен екран и в dynamic island
+    fontawesome_icon_name                 : star
 
 # Theme Settings
 topbar_color                              : "#000000"
